@@ -11,7 +11,8 @@ Este proyecto muestra cómo obtener variables de entorno (envs) de AWS Secrets M
 
 ## Requirements
 
-Antes de poder ejecutar este proyecto, asegúrate de que tienes los siguientes prerrequisitos:
+> [!IMPORTANT]
+> Antes de poder ejecutar este proyecto, asegúrate de que tienes los siguientes prerrequisitos:
 
 - Node.js v16 o superior
 - NestJS CLI (`npm i -g @nestjs/cli`)
